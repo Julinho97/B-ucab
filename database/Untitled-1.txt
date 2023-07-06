@@ -1,0 +1,5 @@
+-- database: c:\Users\ndaanan\Projet_ralavel\lav_sms-master\database\bass.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+DELETE FROM"class_types" WHERE id =5;
